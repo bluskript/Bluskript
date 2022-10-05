@@ -1,7 +1,5 @@
 ### Current main project
 
-Currently a lot of work is being done on [Harmony](https://github.com/harmony-development/legato), an open source chat app. Be sure to check it out!
-
-![Bluskript's github streak](https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=Bluskript&hide_border=true)
+Currently a lot of work is being done on [Nodetool](https://github.com/nodetool/nodetool-sdk), an open source node-based data processing app. Be sure to check it out!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bluskript&style=flat-square)
